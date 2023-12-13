@@ -1,4 +1,4 @@
-# Frogger in BabylonJS
+# Frogger in Babylon.js
 ![Screenshot from 2023-12-13 12-52-10](https://github.com/LaneDNickson/Frogger/assets/40464862/44ec357e-d070-4ebf-9e82-e677375acd07)
 
 ## Description
