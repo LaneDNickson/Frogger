@@ -10,6 +10,7 @@ Music composed by [Flyer_95](https://flyer95.bandcamp.com)
 
 
 ## How to Build/Play
+Try it [here](https://lanenickson.us/frogger)!
 ```
 npm install
 npm run build
